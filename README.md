@@ -15,13 +15,13 @@
 
 ***Todos los archivos de este repo están alojados en la rama gh-pages***
 
-***La web se puede ver en: https://gekyzo.github.io/startpage/***
+***La web se puede ver en: `https://gekyzo.github.io/startpage/`***
 
 Podemos almacenar sites generados con HTML, CSS y JS directamente desde GitHub.
 
 Esto se puede hacer de tres formas distintas:
 
-- GitHub puede crear una web con el contenido de README<a></a>.md que tengamos alojado en master
+- GitHub puede crear una web con el contenido de `README.md` que tengamos alojado en master
 
 - También puede crear una web con los archivos que tengamos alojados en la rama master
 
@@ -33,7 +33,7 @@ Esto se puede hacer de tres formas distintas:
 
 - Dentro del repositorio, en el grupo **GitHub Pages**, seleccionamos dicha branch.
 
-- Ahora la ruta de acceso a nuestro site será https<a></a>://*USERNAME*.github.io/*PROJECT*/
+- Ahora la ruta de acceso a nuestro site será https://*USERNAME*.github.io/*PROJECT*/
 
 # Startpage
 
