@@ -1,0 +1,11 @@
+$colors: (
+  'background': #F4F4F4,
+  'primary': #DCDCDC,
+  'secondary': #4C5C68,
+  'dark': #46494C,
+  'accent': #1985A1
+);
+
+@function color($key: 'primary') {
+  @return map-get($colors, $key);
+}
