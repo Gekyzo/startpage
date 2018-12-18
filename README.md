@@ -1,4 +1,6 @@
-*Proyecto de prueba para utilizar la funcionalidad GitHub pages.*
+***Proyecto de prueba para utilizar la funcionalidad GitHub pages.***
+
+***Todos los archivos de este repo están alojados en la rama gh-pages***
 
 Podemos almacenar sites generados con HTML, CSS y JS directamente desde GitHub.
 
