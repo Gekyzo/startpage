@@ -1,3 +1,16 @@
+## Inspirado en la charla MeetUp: Creando una página dinámica en GitHub
+
+- Charla realizada el 11/12/2018
+
+- Ponente: Jesus Javier puente 
+    - [GitHub](https://github.com/chuchip)
+    - [Profesor-P](http://www.profesor-p.com/)
+    - [La Rioja Tech Alliance](http://www.lariojatech.org/)
+
+- Herramientas mencionadas:
+    - [Travis](https://travis-ci.org/): Integración continua
+    - [Hugo](https://gohugo.io/): Framework para crear sites
+
 ***Proyecto de prueba para utilizar la funcionalidad GitHub pages.***
 
 ***Todos los archivos de este repo están alojados en la rama gh-pages***
